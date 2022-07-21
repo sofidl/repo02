@@ -26,6 +26,6 @@
 -  *Git remote -v*: para ver con qué repositorio estamos asociados.
 -  *Git pull*: hacer la actividad contraria al git push. Podemos actualizar modificaciones hechas en el repositorio remoto, y obtenerlas en nuestro repositorio local.
 -  *Git clone*: trabajar en un proyecto clonando el repositorio.
--  
+ 
   
 
